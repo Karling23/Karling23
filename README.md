@@ -32,7 +32,7 @@
         <h1>¡Hola!</h1>
         <p>Mi nombre es <strong>Carlos</strong></p>
         <p>Tengo experiencia en <strong>Python</strong></p>
-        <img src="tu-imagen.jpg" alt="Imagen de presentación">
+        <img src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png" alt="Imagen de presentación">
         <p>Soy de aprendizaje rápido.</p>
     </div>
 </body>
