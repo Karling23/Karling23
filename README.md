@@ -6,13 +6,6 @@
 
 ---
 
-<div style="display: flex; justify-content: center;">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Karling23&show_icons=true&theme=radical&bg_color=#0076F5&title_color=4EC9B0&text_color=D4D4D4&icon_color=C586C0&border_color=2D2D2D" alt="GitHub Stats" />
-</div>
-
-
----
-
 ## My information
 - 🏠 Live in **Ecuador** 🏠
 - 📚 Student at **"Universidad "UTE", Ecuador"** 📚
