@@ -15,7 +15,7 @@
 
 ## My information
 - 🏠 Live in **Ecuador** 🏠
-- 📚 Student at **"Universidad Tecnológica Equinoccial (UTE), Ecuador"** 📚
+- 📚 Student at **"Universidad "UTE", Ecuador"** 📚
 - 👓 Eager to learn more 👓
 - 📨 Personal email: [ clalquinga@gmail.com ]
 
