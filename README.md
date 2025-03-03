@@ -5,12 +5,15 @@
 ### Developer in training
 
 ---
+
  <div style="display: flex; justify-content: space-between;">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Karling23&show_icons=true&theme=radical&bg_color=1E1E1E&title_color=4EC9B0&text_color=D4D4D4&icon_color=C586C0&border_color=2D2D2D" alt="GitHub Stats" />
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karling23&layout=compact&theme=radical&bg_color=1E1E1E&title_color=4EC9B0&text_color=D4D4D4&border_color=2D2D2D" alt="Top Languages" />
   </div>
 </div>
+
 ---
+
 ## My information
 - 🏠 Live in **Ecuador** 🏠
 - 📚 Student at **"Universidad Tecnológica Equinoccial (UTE), Ecuador"** 📚
